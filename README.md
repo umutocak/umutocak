@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**umutocak/umutocak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there :wave:  
+- :telescope: I’m currently study on Gedik University 
+- :seedling: I’m currently learning .Net & Angular & Flutter 
+- :people_with_bunny_ears_partying: I’m looking to collaborate on Friend 
+- :thinking: I’m looking for help with .Net & Angular 
+- :speech_balloon: Ask me about Anything 
+- :mailbox: How to reach me: umutocakcom@gmail.com  
+- ![](https://komarev.com/ghpvc/?username=umutocak&color=red)  
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutocak&layout=compact)](https://github.com/umutocak/github-readme-stats)   
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutocak)](https://github.com/umutocak/github-readme-stats)  
+- ![alt text](https://camo.githubusercontent.com/134ba5ddb189484394bb06509697e69390933f5b214c64d19c48fb868aad8b1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465) 
+- ![alt text](https://camo.githubusercontent.com/f36a579a7440dd2cd03
