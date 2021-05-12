@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently study on Gedik University
 - 🌱 I’m currently learning .Net & Angular & Flutter
-- 👯 I’m looking to collaborate on Friend
-- 🤔 I’m looking for help with .Net & Angular
 - 💬 Ask me about Anything
 - 📫 How to reach me: umutocakcom@gmail.com
 
