@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I studied at Gedik University
+- 🔭 I work as a software developer at ASTSPROFILE
 - 🌱 I’m currently learning .Net & Angular & Flutter
 - 💬 Ask me about Anything
 - 📫 How to reach me: umutocakcom@gmail.com
