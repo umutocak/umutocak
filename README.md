@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently study on Gedik University
+- 🔭 I studied at Gedik University
 - 🌱 I’m currently learning .Net & Angular & Flutter
 - 💬 Ask me about Anything
 - 📫 How to reach me: umutocakcom@gmail.com
