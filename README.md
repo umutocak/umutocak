@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=umutocak&color=red)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutocak&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutocak&layout=compact)](https://github.com/umutocak/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutocak)](https://github.com/umutocak/github-readme-stats)
