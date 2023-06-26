@@ -16,6 +16,7 @@ Hello, I am Umut Ocak, I graduated from Gedik University computer programming. I
 
 [![Redis Example](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=redis-example&theme=dark)](https://github.com/umutocak/redis-example)
 [![Health Check](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=HealthCheck&theme=dark)](https://github.com/umutocak/HealthCheck)
+[![RabbitMQ Example](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=RabbitMQ-example&theme=dark)](https://github.com/umutocak/RabbitMQ-example)
 [![Flutter Whatsapp UI Clone](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=WhatsAppUIClone&theme=dark)](https://github.com/umutocak/WhatsAppUIClone)
 
 
