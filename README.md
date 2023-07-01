@@ -7,7 +7,7 @@ Hello, I am Umut Ocak, I graduated from Gedik University computer programming. I
 
 -  **BackEnd:**  C#, TypeScript
 -  **Queue:**  Redis, RabbitMQ
--  **Logging:**  Seq
+-  **Logging:**  Serilog
 -  **FrontEnd:**  Angular, Flutter
 -  **Database:** Relational Database (SQL, PostgreSQL)
 
