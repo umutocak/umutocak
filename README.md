@@ -3,6 +3,8 @@
 
 Hello, I am Umut Ocak, I graduated from Gedik University computer programming. I am interested in Backend and Frontend areas. I am currently working as a Software developer at ASTSPROFILE. I am constantly developing projects and taking part in projects. In addition to these, I am interested in social media. I provide support to the software community on the page I have opened with information content.
 
+![](https://komarev.com/ghpvc/?username=umutocak&color=blue)
+
 ## 👨‍💻 Skills
 
 -  **BackEnd:**  C# (Net Core), TypeScript
