@@ -16,10 +16,13 @@ Hello, I am Umut Ocak, I graduated from Gedik University computer programming. I
 
 ## 📚 More Projects
 
-[![Redis Example](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=redis-example&theme=dark)](https://github.com/umutocak/redis-example)
-[![Health Check](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=HealthCheck&theme=dark)](https://github.com/umutocak/HealthCheck)
-[![RabbitMQ Example](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=RabbitMQ-example&theme=dark)](https://github.com/umutocak/RabbitMQ-example)
-[![Flutter Whatsapp UI Clone](https://github-readme-stats.vercel.app/api/pin/?username=umutocak&repo=WhatsAppUIClone&theme=dark)](https://github.com/umutocak/WhatsAppUIClone)
+| Project | Description |
+| --- | --- |
+| [ Redis with .NET Core ](https://github.com/umutocak/redis-example) | The Redis example is a simple project I made |
+| [ Health Check ](https://github.com/umutocak/HealthCheck) | In this project, I briefly mentioned how the Health Check structure is used with .NET |
+| [ RabbitMQ Example ](https://github.com/umutocak/RabbitMQ-example) | I have illustrated the use of RabbitMQ at a basic level with .NET |
+| [ WhatsAppUIClone ](https://github.com/umutocak/WhatsAppUIClone) | It is a project where I cloned Whatsapp user interface with Flutter |
+| [ Flutter Training In Turkish ](https://github.com/umutocak/turkce_flutter_egitimi) | It is an educational project about Flutter that I have prepared in Turkish and I am updating it |
 
 
 
