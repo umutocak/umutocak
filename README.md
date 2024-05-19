@@ -23,6 +23,7 @@ Hello, I am Umut Ocak, I graduated from Gedik University computer programming. I
 | [ RabbitMQ Example ](https://github.com/umutocak/RabbitMQ-example) | I have illustrated the use of RabbitMQ at a basic level with .NET |
 | [ WhatsAppUIClone ](https://github.com/umutocak/WhatsAppUIClone) | It is a project where I cloned Whatsapp user interface with Flutter |
 | [ Flutter Training In Turkish ](https://github.com/umutocak/turkce_flutter_egitimi) | It is an educational project about Flutter that I have prepared in Turkish and I am updating it |
+| [ OCR with .Net Core ](https://github.com/umutocak/dotnetcore_tesseract_ocr/tree/master) | Hello, this project is a tool that allows you to get the text in the image as text |
 
 
 
