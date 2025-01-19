@@ -25,6 +25,7 @@ Hello, I am Umut Ocak, I graduated from Gedik University computer programming. I
 | [ Flutter Training In Turkish ](https://github.com/umutocak/turkce_flutter_egitimi) | It is an educational project about Flutter that I have prepared in Turkish and I am updating it |
 | [ OCR with .Net Core ](https://github.com/umutocak/dotnetcore_tesseract_ocr/tree/master) | Hello, this project is a tool that allows you to get the text in the image as text |
 | [ CurrencyBankTCMB ](https://github.com/umutocak/CurrencyBankTCMB) | This project allows you to use the exchange rates of the Central Bank of the Republic of Turkey in JSON format |
+| [ Generic Elasticsearch Example ](https://github.com/umutocak/GenericElasticSearchExample) | Elasticsearch Generic Repository Example With .Net Core |
 
 
 
